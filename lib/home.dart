@@ -180,7 +180,7 @@ class _HomeState extends State<Home> {
                                     decoration: new BoxDecoration(
                                         boxShadow: [
                                           BoxShadow(
-                                            color: Colors.grey.withOpacity(0.2),
+                                            color: Colors.grey.withOpacity(0.3),
 
                                             blurRadius: 6,
                                             offset: Offset(0,
